@@ -1,5 +1,5 @@
 # Predicting Student Academic Performance Using Demographic and Behavioral Factors 🧑‍🎓
-!(s.jpg)[s.jpg]
+![s.jpg](s.jpg)
 
 # Project Description
 This project analyzes a dataset of 649 Portuguese secondary school students to identify key factors influencing academic success. The goal is to develop models that can predict students' final grades (G3) early in the school year, enabling educators to provide targeted support to at-risk students. The analysis explores relationships between personal characteristics, family background, lifestyle factors, and academic performance metrics.
@@ -98,7 +98,7 @@ This process ensures the dataset is clean and ready for exploratory analysis.
 - Family relationship quality impacts wellbeing but not grades
 
 # Modeling Approach
-!(mgbox.png)[mgbox.png]
+![mgbox.png](mgbox.png)
 ## Data Preparation
 - Train-Test Split: 80% training, 20% testing
 - Stratified sampling on target variable (`G3`) to maintain class distribution
